@@ -24,6 +24,7 @@ This repository contains a collection of beginner-friendly mini projects built u
 ---
 
 🛠️ Tech Stack
+
 HTML
 
 CSS
