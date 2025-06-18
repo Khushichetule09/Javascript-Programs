@@ -1,4 +1,5 @@
 🌐 JavaScript Mini Projects Collection
+
 This repository contains a collection of beginner-friendly mini projects built using HTML, CSS, and JavaScript. Each project demonstrates different DOM manipulation and interactive features. 💻✨
 
 ---
