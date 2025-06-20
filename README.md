@@ -18,7 +18,7 @@ This repository contains a collection of beginner-friendly mini projects built u
 
 6.📥 Download Progress Bar – A visual download progress animation.
 
-7.🔍 Search Interface (UI Only) – A search bar UI with placeholder people container.
+7.🔍 Search Interface (UI Only) – A search bar UI with placeholder people container..
 
 
 ---
